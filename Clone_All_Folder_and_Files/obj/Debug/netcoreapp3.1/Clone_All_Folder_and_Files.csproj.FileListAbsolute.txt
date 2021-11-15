@@ -1,0 +1,14 @@
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.exe
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.deps.json
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.runtimeconfig.json
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.runtimeconfig.dev.json
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.dll
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\bin\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.pdb
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.AssemblyInfoInputs.cache
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.AssemblyInfo.cs
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.csproj.CoreCompileInputs.cache
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.dll
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.pdb
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.genruntimeconfig.cache
+C:\Users\useym\Desktop\tasks\Clone_All_Folder_and_Files\Clone_All_Folder_and_Files\obj\Debug\netcoreapp3.1\Clone_All_Folder_and_Files.csproj.AssemblyReference.cache

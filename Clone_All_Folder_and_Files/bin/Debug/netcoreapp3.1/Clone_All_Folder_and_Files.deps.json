@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clone_All_Folder_and_Files/1.0.0": {
+        "runtime": {
+          "Clone_All_Folder_and_Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clone_All_Folder_and_Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
