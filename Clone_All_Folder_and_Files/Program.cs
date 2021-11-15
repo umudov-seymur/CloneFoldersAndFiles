@@ -8,7 +8,7 @@ namespace Clone_All_Folder_and_Files
         static void Main(string[] args)
         {
             string sourcePath = Environment.CurrentDirectory;
-            string destPath = Path.Combine(Environment.CurrentDirectory, "ClonedFolder");
+            string destPath = Path.Combine(sourcePath, "ClonedFolder");
 
             CopyFolder(sourcePath, destPath);
         }
